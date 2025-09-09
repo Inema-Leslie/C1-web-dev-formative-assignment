@@ -20,7 +20,6 @@ Backend:
 
 Parses and cleans MoMo SMS XML data.
 Stores processed data into a MySQL database.
-Provides APIs to retrieve data using FastAPI.
 
 Frontend:
 
@@ -39,3 +38,41 @@ Frontend:
 HTML
 CSS
 JavaScript
+         
+         Architecture diagram created:
+
+1. Development Workflow Chart
+
+Complete Git branching strategy
+Pull request and code review process
+Testing and documentation requirements
+Merge and deployment flow
+
+2. Data Flow 
+
+Visual representation of ETL process
+Shows data transformation stages
+Includes error handling (dead letter )
+Storage and frontend visualization layers
+
+3. Technology Stack Architecture
+
+Layered architecture visualization
+Frontend, API, Backend, and Storage layers
+Technology dependencies and connections
+
+4. Project Management Workflow
+
+Git branching 
+Feature branch examples (XML parser, data cleaner, dashboard)
+
+
+5.  Planning & Task Flow
+
+Agile/Scrum workflow visualization
+Backlog to sprint planning process
+Daily standup and task movement
+Provides APIs to retrieve data using FastAPI.
+The link for the diagram :(https://drive.google.com/file/d/1iDtIdav-qSg7X8-AtWlEIHjRkuAnIz2d/view?usp=sharing)
+
+
