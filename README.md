@@ -75,4 +75,6 @@ Daily standup and task movement
 Provides APIs to retrieve data using FastAPI.
 The link for the diagram :(https://drive.google.com/file/d/1iDtIdav-qSg7X8-AtWlEIHjRkuAnIz2d/view?usp=sharing)
 
+This is the link to our scrum board: https://app.clickup.com/90121199296/v/b/2kxu8qp0-212
+
 
