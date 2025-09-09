@@ -1,6 +1,6 @@
 # C1-web-dev-formative-assignment
-This is CSA group
-The members are: Irakora Des Gasana
+This is group 6,
+the members are: Irakora Des Gasana
                  Isingizwe Aurore Marie Pascaline
                  Inema Amanda Leslie
 
