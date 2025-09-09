@@ -23,6 +23,7 @@ Stores processed data into a MySQL database.
 
 Frontend:
 
+
 Dynamically displays data using JavaScript.
 Allows filtering of transactional data based on user preferences.
 Generates interactive charts for data visualization.
