@@ -1,7 +1,7 @@
 # C1-web-dev-formative-assignment
 This is group 6,
 the members are: Irakora Des Gasana,
-                 Isingizwe Aurore Marie Pascaline and
+                 Isingizwe Aurore Marie Pascaline, Ishimwe Yvan Ralph and
                  Inema Amanda Leslie
 
                  
