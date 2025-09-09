@@ -69,7 +69,7 @@ Feature branch examples (XML parser, data cleaner, dashboard)
 
 5.  Planning & Task Flow
 
-/Scrum workflow visualization
+Scrum workflow visualization
 Backlog to sprint planning process
 Daily standup and task movement
 Provides APIs to retrieve data using FastAPI.
