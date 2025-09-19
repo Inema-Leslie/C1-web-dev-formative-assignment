@@ -2,7 +2,7 @@
 
 ### users table → user.json
 [SQL Column]   [JSON Field]
-user_id         user_Id 
+User_id         user_Id 
 Name            name 
 Phone_number    phone_Number
 
@@ -11,12 +11,12 @@ Phone_number    phone_Number
  Trans_id       transaction_Id 
  user_id        user_Id 
  Date           date
-Time_stamp      time_Stamp 
-Body            body 
+ Time_stamp     time_Stamp 
+ Body           body 
 
 ### transaction_categories table → transaction_Categories.json
 [SQL Column]     [JSON Field]
- category_id      category_Id 
+ Category_id      category_Id 
  Trans_id         transaction_Id 
  payment_type     payment_Type
  transfer_type    transfer_Type 
