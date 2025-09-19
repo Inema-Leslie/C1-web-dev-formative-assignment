@@ -1,6 +1,6 @@
 Our ERD diagram shows four tables: Users, Transactions, Transaction_categories and System logs. 
 The Users table helps us track the users information like their name and phone numbers.
-The Transaction table helps us record all the transactions regardless of any order or category. The Transaction table is the main table as its Primary Key is a Foreign Key to all the other tables
+The Transaction table helps us record all the transactions regardless of any order or category. The Transaction table is the main table as its Primary Key is a Foreign Key to 2 other tables
 The Transaction_categories table helps us categorize the transactions as it is the whole point of the system. The transactions can either be about sending or receiving 
 Finally the System_logs table helps us keep track of all times the user interacts with the system
 The relationship of Users to Transactions is 1:M because one user can have an infinite number of transactions.
