@@ -1,5 +1,5 @@
 import time
-from parser import parse_transactions
+from parse_xml import parse_transactions
 
 def linear_search(transactions, transaction_id):
     """
