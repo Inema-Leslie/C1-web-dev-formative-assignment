@@ -174,5 +174,5 @@ Problems:
 3. Same header can be reused
 4. Credentials sent in plain text
 
-Better Alternatives: Use HTTPS, JWT, or OAuth2 for real-world apps.
+Better Alternatives would be to Use HTTPS, JWT, or OAuth2 for real-world apps.
 
