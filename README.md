@@ -83,7 +83,7 @@ mysql -u username -p database_name < momo_sms_backup.sql
 
 ## API Documentation
 
-Detailed API documentation for the MoMo Transaction REST API is available in the PDF file: [MoMo_Transaction_API_Report.pdf](./MoMo_Transaction_API_Report.pdf) or go to docs Directory in the api_docs.md(./docs/api_docs.md)
+Detailed API documentation for the MoMo Transaction REST API is available in the PDF file: [MoMo_Transaction_API_Report.pdf](./MoMo_Transaction_API_Report.pdf) or go to docs Directory in the api_docs.md[./docs/api_docs.md]
 
 This documentation includes:
 - API endpoints (GET, POST, PUT, DELETE)
