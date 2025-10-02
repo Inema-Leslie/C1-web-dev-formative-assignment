@@ -81,6 +81,16 @@ mysql -u username -p -e "CREATE DATABASE momo_sms;"
 2. Run Import command
 mysql -u username -p database_name < momo_sms_backup.sql
 
+## API Documentation
+
+Detailed API documentation for the MoMo Transaction REST API is available in the PDF file: [MoMo_Transaction_API_Report.pdf](./MoMo_Transaction_API_Report.pdf) or go to docs Directory in the api_docs.md(./docs/api_docs.md)
+
+This documentation includes:
+- API endpoints (GET, POST, PUT, DELETE)
+- Authentication details
+- Sample requests and responses
+- Security recommendations
+- Performance analysis and DSA comparison
 
 The link for the diagram :(https://drive.google.com/file/d/1iDtIdav-qSg7X8-AtWlEIHjRkuAnIz2d/view?usp=sharing)
 
