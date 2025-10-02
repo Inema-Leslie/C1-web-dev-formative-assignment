@@ -74,8 +74,16 @@ Backlog to sprint planning process
 Daily standup and task movement
 Provides APIs to retrieve data using FastAPI.
 
+
+### Setup Database
+1. First create Database 
+mysql -u username -p -e "CREATE DATABASE momo_sms;"
+2. Run Import command
+mysql -u username -p database_name < momo_sms_backup.sql
+
+
 The link for the diagram :(https://drive.google.com/file/d/1iDtIdav-qSg7X8-AtWlEIHjRkuAnIz2d/view?usp=sharing)
 
-This is the link to our scrum board: https://app.clickup.com/90121199296/v/b/2kxu8qp0-212
+This is the link to our scrum board: https://app.clickup.com/90121199296/v/b/t/90121199296
 
-
+This is the link for database documentation :https://docs.google.com/document/d/1fbD71wfCGhUVtXfMK0qPDAimaabetJOKBJJPuYlsm38/edit?usp=sharing
